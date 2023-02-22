@@ -1,2 +1,3 @@
 hello.txt ini berisi tentang awal pembelajaran saya diperpindahan branch
 hello world saja
+konflik satu biasa
